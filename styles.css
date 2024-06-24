@@ -1,0 +1,36 @@
+* {
+    font-family: Tahoma, sans-serif, 
+}
+
+#odin-recipes {
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(151, 62, 11);
+    text-align: center;
+}
+
+.recipe-links {
+    text-align: center;
+    list-style: none;
+}
+
+#banana-bread-link {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+#buttermilk-pancakes-link {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+#garlic-chicken-fried-chicken-link {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.recipe-name {
+    text-align: center;
+    font-size: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
